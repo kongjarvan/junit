@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 public class MyParseTest {
     @Test
-    public void changeStringToInt_test(int expected) {
+    public void changeStringToInt_test() {
         // given
         String value = "1";
 
